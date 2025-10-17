@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./App.css";
+import "./app.css";
 
 function Person() {
   const [age, setAge] = useState("");
